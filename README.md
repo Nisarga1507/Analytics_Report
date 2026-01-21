@@ -23,6 +23,7 @@ It uses **two CRISP-DM investigation cycles**:
    - `Analytics_Report_MOOC.Rproj`
 
 2. Restore package environment using renv:
+3. 
 ```r
 install.packages("renv")
 renv::restore()
@@ -33,9 +34,3 @@ renv::restore()
 
 ## Submission
 Final submission prepared on 16 Jan 2026.
-
-# Analytics_Report
-# Analytics_Report
-# Analytics_Report
-# Analytics_Report
-# Analytics_Report
